@@ -2,9 +2,9 @@
 
 Projeto desenvolvido com **React Native + Expo (JavaScript)** seguindo os roteiros dos PDFs:
 
-- **Projeto 7 - Make an Instagram App** (formulário de cadastro completo de tutor + pet)
-- **Projeto 8 - Make an Instagram App** (home com componentes reutilizáveis, cards e posts)
-- **Projeto 9 - Make an Instagram App** (navegação Stack + Tabs)
+- **Projeto 7 - Make an Instagram App** (formulário de cadastro completo de tutor + pet) Carlos André
+- **Projeto 8 - Make an Instagram App** (home com componentes reutilizáveis, cards e posts) José Agra
+- **Projeto 9 - Make an Instagram App** (navegação Stack + Tabs) Luiz Felipe Carvalho
 
 O foco principal foi construir a estrutura de navegação do app, incluindo:
 
